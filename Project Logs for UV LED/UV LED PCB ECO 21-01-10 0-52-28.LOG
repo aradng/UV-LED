@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VCC Pin=UV_1-1
+Removed Pin From Net: NetName=VCC Pin=UV_2-1
+Removed Pin From Net: NetName=VCC Pin=UV_4-1
+Removed Pin From Net: NetName=VCC Pin=UV_5-1
+Removed Pin From Net: NetName=VCC Pin=UV_7-1
+Added Component: Designator=UV_8(Highpwr_SMT_LED)
+Add component. Clean all parameters for all variants
+Change Net Name : Old Net Name=VCC New Net Name=GND
+Added Pin To Net: NetName=NetUV_0_2 Pin=UV_0-2
+Added Pin To Net: NetName=NetUV_0_2 Pin=UV_1-1
+Added Net: Name=NetUV_0_2
+Added Pin To Net: NetName=NetUV_1_2 Pin=UV_1-2
+Added Pin To Net: NetName=NetUV_1_2 Pin=UV_2-1
+Added Net: Name=NetUV_1_2
+Added Pin To Net: NetName=NetUV_3_2 Pin=UV_3-2
+Added Pin To Net: NetName=NetUV_3_2 Pin=UV_4-1
+Added Net: Name=NetUV_3_2
+Added Pin To Net: NetName=NetUV_4_2 Pin=UV_4-2
+Added Pin To Net: NetName=NetUV_4_2 Pin=UV_5-1
+Added Net: Name=NetUV_4_2
+Added Pin To Net: NetName=NetUV_6_2 Pin=UV_6-2
+Added Pin To Net: NetName=NetUV_6_2 Pin=UV_7-1
+Added Net: Name=NetUV_6_2
+Added Pin To Net: NetName=NetUV_7_2 Pin=UV_7-2
+Added Pin To Net: NetName=NetUV_7_2 Pin=UV_8-1
+Added Net: Name=NetUV_7_2
+Added Pin To Net: NetName=VCC Pin=UV_2-2
+Added Pin To Net: NetName=VCC Pin=UV_5-2
+Added Pin To Net: NetName=VCC Pin=UV_8-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=UV LED Member=Component UV_8 1-5W-LED
+Added Room: Name=UV LED
